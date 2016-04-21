@@ -1,0 +1,873 @@
+{
+    "leden":
+            [
+                {
+                    "last_name": "Annouri",
+                    "Name": "Imade",
+                    "seatNumb": 102,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4052"
+                },
+                {
+                    "last_name": "Anseeuw",
+                    "Name": "Björn",
+                    "seatNumb": 87,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4066"
+                },
+                {
+                    "last_name": "Bajart",
+                    "Name": "Lionel",
+                    "seatNumb": 122,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4053"
+                },
+                {
+                    "last_name": "Bastiaens",
+                    "Name": "Caroline",
+                    "seatNumb": 116,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3913"
+                },
+                {
+                    "last_name": "Beenders",
+                    "Name": "Rob",
+                    "seatNumb": 98,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4054"
+                },
+                {
+                    "last_name": "Bertels",
+                    "Name": "Jan",
+                    "seatNumb": 125,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4055"
+                },
+                {
+                    "last_name": "Bothuyne",
+                    "Name": "Robrecht",
+                    "seatNumb": 94,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3430"
+                },
+                {
+                    "last_name": "Brouwers",
+                    "Name": "Karin",
+                    "seatNumb": 91,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3426"
+                },
+                {
+                    "last_name": "Brusseel",
+                    "Name": "Ann",
+                    "seatNumb": 56,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3449"
+                },
+                {
+                    "last_name": "Caron",
+                    "Name": "Bart",
+                    "seatNumb": 43,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2845"
+                },
+                {
+                    "last_name": "Celis",
+                    "Name": "Vera",
+                    "seatNumb": 66,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3456"
+                },
+                {
+                    "last_name": "Ceyssens",
+                    "Name": "Lode",
+                    "seatNumb": 72,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3388"
+                },
+                {
+                    "last_name": "Christiaens",
+                    "Name": "An",
+                    "seatNumb": 118,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4114"
+                },
+                {
+                    "last_name": "Claes",
+                    "Name": "Sonja",
+                    "seatNumb": 19,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3272"
+                },
+                {
+                    "last_name": "Coppé",
+                    "Name": "Griet",
+                    "seatNumb": 92,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3428"
+                },
+                {
+                    "last_name": "Coudyser",
+                    "Name": "Cathy",
+                    "seatNumb": 14,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4068"
+                },
+                {
+                    "last_name": "Croo",
+                    "Name": "Caroline",
+                    "seatNumb": 107,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4271"
+                },
+                {
+                    "last_name": "Daems",
+                    "Name": "Rik",
+                    "seatNumb": 40,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4074"
+                },
+                {
+                    "last_name": "Danen",
+                    "Name": "Johan",
+                    "seatNumb": 79,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2281"
+                },
+                {
+                    "last_name": "Daniëls",
+                    "Name": "Koen",
+                    "seatNumb": 109,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4069"
+                },
+                {
+                    "last_name": "de Bethune",
+                    "Name": "Sabine",
+                    "seatNumb": 21,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4070"
+                },
+                {
+                    "last_name": "De Bruyn",
+                    "Name": "Piet",
+                    "seatNumb": 17,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4071"
+                },
+                {
+                    "last_name": "De Clercq",
+                    "Name": "Mathias",
+                    "seatNumb": 39,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3324"
+                },
+                {
+                    "last_name": "De Croo",
+                    "Name": "Herman",
+                    "seatNumb": 22,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4056"
+                },
+                {
+                    "last_name": "De Gucht",
+                    "Name": "Jean-Jacques",
+                    "seatNumb": 38,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2297"
+                },
+                {
+                    "last_name": "de Kort",
+                    "Name": "Dirk",
+                    "seatNumb": 53,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3416"
+                },
+                {
+                    "last_name": "De Loor",
+                    "Name": "Kurt",
+                    "seatNumb": 78,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3297"
+                },
+                {
+                    "last_name": "De Meulemeester",
+                    "Name": "Ingeborg",
+                    "seatNumb": 50,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2791"
+                },
+                {
+                    "last_name": "De Meulemeester",
+                    "Name": "Marnic",
+                    "seatNumb": 54,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4072"
+                },
+                {
+                    "last_name": "De Meyer",
+                    "Name": "Jos",
+                    "seatNumb": 20,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2792"
+                },
+                {
+                    "last_name": "De Potter",
+                    "Name": "Jenne",
+                    "seatNumb": 45,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/1782"
+                },
+                {
+                    "last_name": "De Ridder",
+                    "Name": "Annick",
+                    "seatNumb": 90,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4334"
+                },
+                {
+                    "last_name": "De Ro",
+                    "Name": "Jo",
+                    "seatNumb": 15,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4113"
+                },
+                {
+                    "last_name": "De Vroe",
+                    "Name": "Gwenny",
+                    "seatNumb": 96,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2793"
+                },
+                {
+                    "last_name": "Depoortere",
+                    "Name": "Ortwin",
+                    "seatNumb": 97,
+                    "party": "Vl Belang",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3921"
+                },
+                {
+                    "last_name": "D'haeseleer",
+                    "Name": "Guy",
+                    "seatNumb": 81,
+                    "party": "Vl Belang",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3448"
+                },
+                {
+                    "last_name": "Diependaele",
+                    "Name": "Matthias",
+                    "seatNumb": 5,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3455"
+                },
+                {
+                    "last_name": "Dochy",
+                    "Name": "Bart",
+                    "seatNumb": 117,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4075"
+                },
+                {
+                    "last_name": "Doomst",
+                    "Name": "Michel",
+                    "seatNumb": 51,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/1806"
+                },
+                {
+                    "last_name": "Durnez",
+                    "Name": "Jan",
+                    "seatNumb": 71,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3463"
+                },
+                {
+                    "last_name": "Engelbosch",
+                    "Name": "Jelle",
+                    "seatNumb": 62,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4076"
+                },
+                {
+                    "last_name": "Fournier",
+                    "Name": "Martine",
+                    "seatNumb": 69,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3299"
+                },
+                {
+                    "last_name": "Franssen",
+                    "Name": "Cindy",
+                    "seatNumb": 68,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3294"
+                },
+                {
+                    "last_name": "Gennez",
+                    "Name": "Caroline",
+                    "seatNumb": 42,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2836"
+                },
+                {
+                    "last_name": "Godderis-T'Jonck",
+                    "Name": "Danielle",
+                    "seatNumb": 33,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3439"
+                },
+                {
+                    "last_name": "Gryffroy",
+                    "Name": "Andries",
+                    "seatNumb": 83,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4077"
+                },
+                {
+                    "last_name": "Helsen",
+                    "Name": "Kathleen",
+                    "seatNumb": 34,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/1825"
+                },
+                {
+                    "last_name": "Hendrickx",
+                    "Name": "Marc",
+                    "seatNumb": 47,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3445"
+                },
+                {
+                    "last_name": "Hofkens",
+                    "Name": "Jan",
+                    "seatNumb": 106,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4112"
+                },
+                {
+                    "last_name": "Hostekint",
+                    "Name": "Michèle",
+                    "seatNumb": 77,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2805"
+                },
+                {
+                    "last_name": "Idrissi",
+                    "Name": "Yamila",
+                    "seatNumb": 76,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2783"
+                },
+                {
+                    "last_name": "Jans",
+                    "Name": "Lies",
+                    "seatNumb": 3,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2808"
+                },
+                {
+                    "last_name": "Jans",
+                    "Name": "Vera",
+                    "seatNumb": 37,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3440"
+                },
+                {
+                    "last_name": "Janssens",
+                    "Name": "Chris",
+                    "seatNumb": 1,
+                    "party": "Vl Belang",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3418"
+                },
+                {
+                    "last_name": "Joosen",
+                    "Name": "Sofie",
+                    "seatNumb": 113,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4078"
+                },
+                {
+                    "last_name": "Kennes",
+                    "Name": "Ward",
+                    "seatNumb": 70,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3350"
+                },
+                {
+                    "last_name": "Keulen",
+                    "Name": "Marino",
+                    "seatNumb": 23,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/1834"
+                },
+                {
+                    "last_name": "Kherbache",
+                    "Name": "Yasmine",
+                    "seatNumb": 57,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4057"
+                },
+                {
+                    "last_name": "Krekels",
+                    "Name": "Kathleen",
+                    "seatNumb": 82,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4079"
+                },
+                {
+                    "last_name": "Landuyt",
+                    "Name": "Renaat",
+                    "seatNumb": 41,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/1838"
+                },
+                {
+                    "last_name": "Lantmeeters",
+                    "Name": "Jos",
+                    "seatNumb": 89,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4080"
+                },
+                {
+                    "last_name": "Lieten",
+                    "Name": "Ingrid",
+                    "seatNumb": 26,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3460"
+                },
+                {
+                    "last_name": "Maertens",
+                    "Name": "Bert",
+                    "seatNumb": 30,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4110"
+                },
+                {
+                    "last_name": "Maes",
+                    "Name": "Lieve",
+                    "seatNumb": 32,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4081"
+                },
+                {
+                    "last_name": "Meremans",
+                    "Name": "Marius",
+                    "seatNumb": 46,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3919"
+                },
+                {
+                    "last_name": "Meuleman",
+                    "Name": "Elisabeth",
+                    "seatNumb": 44,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3173"
+                },
+                {
+                    "last_name": "Moerenhout",
+                    "Name": "An",
+                    "seatNumb": 103,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4058"
+                },
+                {
+                    "last_name": "Nevens",
+                    "Name": "Bart",
+                    "seatNumb": 85,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4082"
+                },
+                {
+                    "last_name": "Partyka",
+                    "Name": "Katrien",
+                    "seatNumb": 115,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4059"
+                },
+                {
+                    "last_name": "Parys",
+                    "Name": "Lorin",
+                    "seatNumb": 86,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4083"
+                },
+                {
+                    "last_name": "Peeters",
+                    "Name": "Lydia",
+                    "seatNumb": 73,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3446"
+                },
+                {
+                    "last_name": "Persyn",
+                    "Name": "Peter",
+                    "seatNumb": 111,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4111"
+                },
+                {
+                    "last_name": "Peumans",
+                    "Name": "Jan",
+                    "seatNumb": 105,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/jan-peumans"
+                },
+                {
+                    "last_name": "Pira",
+                    "Name": "Ingrid",
+                    "seatNumb": 80,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4084"
+                },
+                {
+                    "last_name": "Poschet",
+                    "Name": "Joris",
+                    "seatNumb": 119,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4109"
+                },
+                {
+                    "last_name": "Remen",
+                    "Name": "Grete",
+                    "seatNumb": 64,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4085"
+                },
+                {
+                    "last_name": "Robeyns",
+                    "Name": "Els",
+                    "seatNumb": 100,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3221"
+                },
+                {
+                    "last_name": "Rombouts",
+                    "Name": "Tinne",
+                    "seatNumb": 35,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2832"
+                },
+                {
+                    "last_name": "Ronse",
+                    "Name": "Axel",
+                    "seatNumb": 88,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4060"
+                },
+                {
+                    "last_name": "Rutten",
+                    "Name": "Gwendolyn",
+                    "seatNumb": 8,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4061"
+                },
+                {
+                    "last_name": "Rzoska",
+                    "Name": "Björn",
+                    "seatNumb": 12,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3920"
+                },
+                {
+                    "last_name": "Saeys",
+                    "Name": "Freya",
+                    "seatNumb": 95,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4086"
+                },
+                {
+                    "last_name": "Sanctorum-Vandevoorde",
+                    "Name": "Hermes",
+                    "seatNumb": 60,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3424"
+                },
+                {
+                    "last_name": "Schiltz",
+                    "Name": "Willem-Frederik",
+                    "seatNumb": 75,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4062"
+                },
+                {
+                    "last_name": "Schryvers",
+                    "Name": "Katrien",
+                    "seatNumb": 52,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3433"
+                },
+                {
+                    "last_name": "Segers",
+                    "Name": "Willy",
+                    "seatNumb": 124,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4087"
+                },
+                {
+                    "last_name": "Segers",
+                    "Name": "Katia",
+                    "seatNumb": 29,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3443"
+                },
+                {
+                    "last_name": "Sintobin",
+                    "Name": "Stefaan",
+                    "seatNumb": 13,
+                    "party": "Vl Belang",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2825"
+                },
+                {
+                    "last_name": "Sminate",
+                    "Name": "Nadia",
+                    "seatNumb": 18,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4089"
+                },
+                {
+                    "last_name": "Soens",
+                    "Name": "Tine",
+                    "seatNumb": 101,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4090"
+                },
+                {
+                    "last_name": "Soete",
+                    "Name": "Ann",
+                    "seatNumb": 63,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4091"
+                },
+                {
+                    "last_name": "Somers",
+                    "Name": "Bart",
+                    "seatNumb": 9,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2773"
+                },
+                {
+                    "last_name": "Taeldeman",
+                    "Name": "Valerie",
+                    "seatNumb": 93,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3465"
+                },
+                {
+                    "last_name": "Taelman",
+                    "Name": "Martine",
+                    "seatNumb": 55,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4063"
+                },
+                {
+                    "last_name": "Talpe",
+                    "Name": "Emmily",
+                    "seatNumb": 121,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4272"
+                },
+                {
+                    "last_name": "Tobback",
+                    "Name": "Bruno",
+                    "seatNumb": 11,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/1882"
+                },
+                {
+                    "last_name": "Turan",
+                    "Name": "Güler",
+                    "seatNumb": 99,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3442"
+                },
+                {
+                    "last_name": "Van Campenhout",
+                    "Name": "Ludo",
+                    "seatNumb": 27,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4100"
+                },
+                {
+                    "last_name": "Van den Bossche",
+                    "Name": "Freya",
+                    "seatNumb": 48,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4092"
+                },
+                {
+                    "last_name": "Van den Brandt",
+                    "Name": "Elke",
+                    "seatNumb": 2,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3464"
+                },
+                {
+                    "last_name": "Van den Heuvel",
+                    "Name": "Koen",
+                    "seatNumb": 58,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4107"
+                },
+                {
+                    "last_name": "van der Vloet",
+                    "Name": "Tine",
+                    "seatNumb": 25,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3458"
+                },
+                {
+                    "last_name": "Van dermeersch",
+                    "Name": "Anke",
+                    "seatNumb": 59,
+                    "party": "Vl Belang",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4093"
+                },
+                {
+                    "last_name": "Van Dijck",
+                    "Name": "Kris",
+                    "seatNumb": 10,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2875"
+                },
+                {
+                    "last_name": "Van Eetvelde",
+                    "Name": "Miranda",
+                    "seatNumb": 6,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2815"
+                },
+                {
+                    "last_name": "Van Esbroeck",
+                    "Name": "Jan",
+                    "seatNumb": 123,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4101"
+                },
+                {
+                    "last_name": "Van Eyken",
+                    "Name": "Christian",
+                    "seatNumb": 28,
+                    "party": "UF",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4095"
+                },
+                {
+                    "last_name": "Van Grieken",
+                    "Name": "Tom",
+                    "seatNumb": 110,
+                    "party": "Vl Belang",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4094"
+                },
+                {
+                    "last_name": "Van Malderen",
+                    "Name": "Bart",
+                    "seatNumb": 4,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/1895"
+                },
+                {
+                    "last_name": "Van Miert",
+                    "Name": "Paul",
+                    "seatNumb": 67,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4096"
+                },
+                {
+                    "last_name": "Van Overmeire",
+                    "Name": "Karim",
+                    "seatNumb": 65,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4097"
+                },
+                {
+                    "last_name": "Van Rompuy",
+                    "Name": "Peter",
+                    "seatNumb": 130,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/1897"
+                },
+                {
+                    "last_name": "Van Volcem",
+                    "Name": "Mercedes",
+                    "seatNumb": 61,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4098"
+                },
+                {
+                    "last_name": "Van Werde",
+                    "Name": "Manuela",
+                    "seatNumb": 16,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4102"
+                },
+                {
+                    "last_name": "Vanbesien",
+                    "Name": "Wouter",
+                    "seatNumb": 24,
+                    "party": "Groen",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3246"
+                },
+                {
+                    "last_name": "Vandaele",
+                    "Name": "Wilfried",
+                    "seatNumb": 112,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4064"
+                },
+                {
+                    "last_name": "Vandenberghe",
+                    "Name": "Steve",
+                    "seatNumb": 31,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/1909"
+                },
+                {
+                    "last_name": "Vandenbroucke",
+                    "Name": "Joris",
+                    "seatNumb": 7,
+                    "party": "sp.a",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3918"
+                },
+                {
+                    "last_name": "Vanderjeugd",
+                    "Name": "Francesco",
+                    "seatNumb": 74,
+                    "party": "Open Vld",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/3444"
+                },
+                {
+                    "last_name": "Vanlouwe",
+                    "Name": "Karl",
+                    "seatNumb": 84,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4099"
+                },
+                {
+                    "last_name": "Vermeulen",
+                    "Name": "Sabine",
+                    "seatNumb": 49,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4103"
+                },
+                {
+                    "last_name": "Verstreken",
+                    "Name": "Johan",
+                    "seatNumb": 36,
+                    "party": "CD&V",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/2850"
+                },
+                {
+                    "last_name": "Wouters",
+                    "Name": "Peter",
+                    "seatNumb": 108,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4065"
+                },
+                {
+                    "last_name": "Wynants",
+                    "Name": "Herman",
+                    "seatNumb": 114,
+                    "party": "N-VA",
+                    "link": "https://www.vlaamsparlement.be/vlaamse-volksvertegenwoordigers/4067"
+                }
+            ]
+}

@@ -1,0 +1,749 @@
+{
+    "leden":
+            [
+                {
+                    "first_name": "Imade",
+                    "last_name": "Annouri",
+                    "seatNumb": 102,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "Björn",
+                    "last_name": "Anseeuw",
+                    "seatNumb": 87,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Lionel",
+                    "last_name": "Bajart",
+                    "seatNumb": 122,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Caroline",
+                    "last_name": "Bastiaens",
+                    "seatNumb": 116,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Rob",
+                    "last_name": "Beenders",
+                    "seatNumb": 98,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Jan",
+                    "last_name": "Bertels",
+                    "seatNumb": 125,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Robrecht",
+                    "last_name": "Bothuyne",
+                    "seatNumb": 94,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Karin",
+                    "last_name": "Brouwers",
+                    "seatNumb": 91,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Ann",
+                    "last_name": "Brusseel",
+                    "seatNumb": 56,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Bart",
+                    "last_name": "Caron",
+                    "seatNumb": 43,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "Vera",
+                    "last_name": "Celis",
+                    "seatNumb": 66,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Lode",
+                    "last_name": "Ceyssens",
+                    "seatNumb": 72,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "An",
+                    "last_name": "Christiaens",
+                    "seatNumb": 118,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Sonja",
+                    "last_name": "Claes",
+                    "seatNumb": 19,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Griet",
+                    "last_name": "Coppé",
+                    "seatNumb": 92,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Cathy",
+                    "last_name": "Coudyser",
+                    "seatNumb": 14,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Caroline",
+                    "last_name": "Croo",
+                    "seatNumb": 107,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Rik",
+                    "last_name": "Daems",
+                    "seatNumb": 40,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Johan",
+                    "last_name": "Danen",
+                    "seatNumb": 79,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "Koen",
+                    "last_name": "Daniëls",
+                    "seatNumb": 109,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Sabine",
+                    "last_name": "de Bethune",
+                    "seatNumb": 21,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Piet",
+                    "last_name": "De Bruyn",
+                    "seatNumb": 17,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Mathias",
+                    "last_name": "De Clercq",
+                    "seatNumb": 39,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Herman",
+                    "last_name": "De Croo",
+                    "seatNumb": 22,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Jean-Jacques",
+                    "last_name": "De Gucht",
+                    "seatNumb": 38,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Dirk",
+                    "last_name": "de Kort",
+                    "seatNumb": 53,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Kurt",
+                    "last_name": "De Loor",
+                    "seatNumb": 78,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Ingeborg",
+                    "last_name": "De Meulemeester",
+                    "seatNumb": 50,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Marnic",
+                    "last_name": "De Meulemeester",
+                    "seatNumb": 54,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Jos",
+                    "last_name": "De Meyer",
+                    "seatNumb": 20,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Jenne",
+                    "last_name": "De Potter",
+                    "seatNumb": 45,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Annick",
+                    "last_name": "De Ridder",
+                    "seatNumb": 90,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Jo",
+                    "last_name": "De Ro",
+                    "seatNumb": 15,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Gwenny",
+                    "last_name": "De Vroe",
+                    "seatNumb": 96,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Ortwin",
+                    "last_name": "Depoortere",
+                    "seatNumb": 97,
+                    "party": "Vlaams Belang"
+                },
+                {
+                    "first_name": "Guy",
+                    "last_name": "D'haeseleer",
+                    "seatNumb": 81,
+                    "party": "Vlaams Belang"
+                },
+                {
+                    "first_name": "Matthias",
+                    "last_name": "Diependaele",
+                    "seatNumb": 5,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Bart",
+                    "last_name": "Dochy",
+                    "seatNumb": 117,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Michel",
+                    "last_name": "Doomst",
+                    "seatNumb": 51,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Jan",
+                    "last_name": "Durnez",
+                    "seatNumb": 71,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Jelle",
+                    "last_name": "Engelbosch",
+                    "seatNumb": 62,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Martine",
+                    "last_name": "Fournier",
+                    "seatNumb": 69,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Cindy",
+                    "last_name": "Franssen",
+                    "seatNumb": 68,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Caroline",
+                    "last_name": "Gennez",
+                    "seatNumb": 42,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Danielle",
+                    "last_name": "Godderis-T'Jonck",
+                    "seatNumb": 33,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Andries",
+                    "last_name": "Gryffroy",
+                    "seatNumb": 83,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Kathleen",
+                    "last_name": "Helsen",
+                    "seatNumb": 34,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Marc",
+                    "last_name": "Hendrickx",
+                    "seatNumb": 47,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Jan",
+                    "last_name": "Hofkens",
+                    "seatNumb": 106,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Michèle",
+                    "last_name": "Hostekint",
+                    "seatNumb": 77,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Yamila",
+                    "last_name": "Idrissi",
+                    "seatNumb": 76,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Lies",
+                    "last_name": "Jans",
+                    "seatNumb": 3,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Vera",
+                    "last_name": "Jans",
+                    "seatNumb": 37,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Chris",
+                    "last_name": "Janssens",
+                    "seatNumb": 1,
+                    "party": "Vlaams Belang"
+                },
+                {
+                    "first_name": "Sofie",
+                    "last_name": "Joosen",
+                    "seatNumb": 113,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Ward",
+                    "last_name": "Kennes",
+                    "seatNumb": 70,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Marino",
+                    "last_name": "Keulen",
+                    "seatNumb": 23,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Yasmine",
+                    "last_name": "Kherbache",
+                    "seatNumb": 57,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Kathleen",
+                    "last_name": "Krekels",
+                    "seatNumb": 82,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Renaat",
+                    "last_name": "Landuyt",
+                    "seatNumb": 41,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Jos",
+                    "last_name": "Lantmeeters",
+                    "seatNumb": 89,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Ingrid",
+                    "last_name": "Lieten",
+                    "seatNumb": 26,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Bert",
+                    "last_name": "Maertens",
+                    "seatNumb": 30,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Lieve",
+                    "last_name": "Maes",
+                    "seatNumb": 32,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Marius",
+                    "last_name": "Meremans",
+                    "seatNumb": 46,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Elisabeth",
+                    "last_name": "Meuleman",
+                    "seatNumb": 44,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "An",
+                    "last_name": "Moerenhout",
+                    "seatNumb": 103,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "Bart",
+                    "last_name": "Nevens",
+                    "seatNumb": 85,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Katrien",
+                    "last_name": "Partyka",
+                    "seatNumb": 115,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Lorin",
+                    "last_name": "Parys",
+                    "seatNumb": 86,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Lydia",
+                    "last_name": "Peeters",
+                    "seatNumb": 73,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Peter",
+                    "last_name": "Persyn",
+                    "seatNumb": 111,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Jan",
+                    "last_name": "Peumans",
+                    "seatNumb": 105,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Ingrid",
+                    "last_name": "Pira",
+                    "seatNumb": 80,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "Joris",
+                    "last_name": "Poschet",
+                    "seatNumb": 119,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Grete",
+                    "last_name": "Remen",
+                    "seatNumb": 64,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Els",
+                    "last_name": "Robeyns",
+                    "seatNumb": 100,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Tinne",
+                    "last_name": "Rombouts",
+                    "seatNumb": 35,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Axel",
+                    "last_name": "Ronse",
+                    "seatNumb": 88,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Gwendolyn",
+                    "last_name": "Rutten",
+                    "seatNumb": 8,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Björn",
+                    "last_name": "Rzoska",
+                    "seatNumb": 12,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "Freya",
+                    "last_name": "Saeys",
+                    "seatNumb": 95,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Hermes",
+                    "last_name": "Sanctorum-Vandevoorde",
+                    "seatNumb": 60,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "Willem-Frederik",
+                    "last_name": "Schiltz",
+                    "seatNumb": 75,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Katrien",
+                    "last_name": "Schryvers",
+                    "seatNumb": 52,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Willy",
+                    "last_name": "Segers",
+                    "seatNumb": 124,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Katia",
+                    "last_name": "Segers",
+                    "seatNumb": 29,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Stefaan",
+                    "last_name": "Sintobin",
+                    "seatNumb": 13,
+                    "party": "Vlaams Belang"
+                },
+                {
+                    "first_name": "Nadia",
+                    "last_name": "Sminate",
+                    "seatNumb": 18,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Tine",
+                    "last_name": "Soens",
+                    "seatNumb": 101,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Ann",
+                    "last_name": "Soete",
+                    "seatNumb": 63,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Bart",
+                    "last_name": "Somers",
+                    "seatNumb": 9,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Valerie",
+                    "last_name": "Taeldeman",
+                    "seatNumb": 93,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Martine",
+                    "last_name": "Taelman",
+                    "seatNumb": 55,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Emmily",
+                    "last_name": "Talpe",
+                    "seatNumb": 121,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Bruno",
+                    "last_name": "Tobback",
+                    "seatNumb": 11,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Güler",
+                    "last_name": "Turan",
+                    "seatNumb": 99,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Ludo",
+                    "last_name": "Van Campenhout",
+                    "seatNumb": 27,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Freya",
+                    "last_name": "Van den Bossche",
+                    "seatNumb": 48,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Elke",
+                    "last_name": "Van den Brandt",
+                    "seatNumb": 2,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "Koen",
+                    "last_name": "Van den Heuvel",
+                    "seatNumb": 58,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Tine",
+                    "last_name": "van der Vloet",
+                    "seatNumb": 25,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Anke",
+                    "last_name": "Van dermeersch",
+                    "seatNumb": 59,
+                    "party": "Vlaams Belang"
+                },
+                {
+                    "first_name": "Kris",
+                    "last_name": "Van Dijck",
+                    "seatNumb": 10,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Miranda",
+                    "last_name": "Van Eetvelde",
+                    "seatNumb": 6,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Jan",
+                    "last_name": "Van Esbroeck",
+                    "seatNumb": 123,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Christian",
+                    "last_name": "Van Eyken",
+                    "seatNumb": 28,
+                    "party": "UF"
+                },
+                {
+                    "first_name": "Tom",
+                    "last_name": "Van Grieken",
+                    "seatNumb": 110,
+                    "party": "Vlaams Belang"
+                },
+                {
+                    "first_name": "Bart",
+                    "last_name": "Van Malderen",
+                    "seatNumb": 4,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Paul",
+                    "last_name": "Van Miert",
+                    "seatNumb": 67,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Karim",
+                    "last_name": "Van Overmeire",
+                    "seatNumb": 65,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Peter",
+                    "last_name": "Van Rompuy",
+                    "seatNumb": 130,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Mercedes",
+                    "last_name": "Van Volcem",
+                    "seatNumb": 61,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Manuela",
+                    "last_name": "Van Werde",
+                    "seatNumb": 16,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Wouter",
+                    "last_name": "Vanbesien",
+                    "seatNumb": 24,
+                    "party": "Groen"
+                },
+                {
+                    "first_name": "Wilfried",
+                    "last_name": "Vandaele",
+                    "seatNumb": 112,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Steve",
+                    "last_name": "Vandenberghe",
+                    "seatNumb": 31,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Joris",
+                    "last_name": "Vandenbroucke",
+                    "seatNumb": 7,
+                    "party": "sp.a"
+                },
+                {
+                    "first_name": "Francesco",
+                    "last_name": "Vanderjeugd",
+                    "seatNumb": 74,
+                    "party": "Open Vld"
+                },
+                {
+                    "first_name": "Karl",
+                    "last_name": "Vanlouwe",
+                    "seatNumb": 84,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Sabine",
+                    "last_name": "Vermeulen",
+                    "seatNumb": 49,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Johan",
+                    "last_name": "Verstreken",
+                    "seatNumb": 36,
+                    "party": "CD&V"
+                },
+                {
+                    "first_name": "Peter",
+                    "last_name": "Wouters",
+                    "seatNumb": 108,
+                    "party": "N-VA"
+                },
+                {
+                    "first_name": "Herman",
+                    "last_name": "Wynants",
+                    "seatNumb": 114,
+                    "party": "N-VA"
+                }
+            ]
+}

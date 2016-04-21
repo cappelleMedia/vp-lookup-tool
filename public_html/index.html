@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vlaams parlement lookup v1.0</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- bootstrap font-awesome -->
+        <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.css"/>
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
+
+        <!-- datatables -->
+        <link rel="stylesheet" href="js/plugins/datatables/datatables.min.css"/>
+
+        <!-- ms custom scroll -->
+        <link rel="stylesheet" href="js/plugins/malihu-custom-scrollbar-plugin-master/jquery.mCustomScrollbar.min.css"/>
+
+        <!-- fakeloader -->
+        <link rel="stylesheet" href="js/plugins/fakeloader/fakeLoader.css">
+        
+        <!-- pretty photo -->
+        <link rel="stylesheet" href="js/plugins/prettyphoto/css/prettyPhoto.css">
+        
+        <!-- custom styles -->
+        <link rel="stylesheet" href="css/stylesheet.css"/>
+
+        <link rel="apple-touch-icon" sizes="57x57" href="images/pagepics/fav/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="images/pagepics/fav/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="images/pagepics/fav/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="images/pagepics/fav/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="images/pagepics/fav/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="images/pagepics/fav/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="images/pagepics/fav/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="images/pagepics/fav/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="images/pagepics/fav/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="images/pagepics/fav/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/pagepics/fav/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="images/pagepics/fav/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/pagepics/fav/favicon-16x16.png">
+        <link rel="manifest" href="images/pagepics/fav/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="images/pagepics/fav/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+    </head>
+    <body>
+        <div id="page-extras">
+            <div id="loading">
+                <h1>
+                    De tabel wordt geladen
+                </h1>
+            </div>
+            <div id="loader">
+
+            </div>
+        </div>
+        <div class="container">
+            <div class="page-header">
+                <h1 class="text-center">Vlaams parlement lookup tool</h1>
+            </div>
+            <table id="parlement" class="table table-responsive table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            Naam
+                        </th>
+                        <th>
+                            Achternaam
+                        </th>
+                        <th>
+                            Zetel 
+                        </th>
+                        <th>
+                            Partij
+                        </th>
+                        <th>
+                            Foto
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+
+            <div id="toTopContainer" hidden>
+                <a href="" class="toTop"> 
+                     <i class="fa fa-arrow-up"></i>
+                     <p>Naar de Top</p>
+                </a>
+            </div>
+
+            <footer class="footer">
+                <div class="container">
+                    <p>(Jens) Cappelle Development<i class="fa fa-copyright"></i>
+<!--                        <a href="mailto:cappelle.design@gmail.com" target="_top">
+                             (Mail: <i class="fa fa-envelope"></i>)
+                        </a>-->
+                    </p>
+                </div>
+            </footer>
+        </div>
+        <script src="js/jquery.js"></script>
+        <script src="js/bootstrap.js"></script> 
+        <script src="js/plugins/datatables/datatables.min.js"></script>
+        <script src="js/plugins/malihu-custom-scrollbar-plugin-master/js/minified/jquery.mCustomScrollbar.min.js"></script>
+        <script src="js/plugins/fakeloader/fakeLoader.min.js"></script>        
+        <script src="js/plugins/addclear.min.js"></script>
+        <script src="js/plugins/prettyphoto/js/jquery.prettyPhoto.js"></script>
+        <!-- custom JS -->
+        <script src="js/jsonData.js"></script>
+        <script src="js/main.js"></script>
+
+    </body>
+</html>
